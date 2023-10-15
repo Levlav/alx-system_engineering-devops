@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 #ser-01 login
+=======
+# server-01 login
+>>>>>>> b4c244fe97479d554418c558f17c45fd593b52db
 
 eval #("ssh-agent")
 
